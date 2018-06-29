@@ -1,5 +1,9 @@
 # krizocodetask
-A code task for Krizo.dk
+A code task for Krizo.dk. I have used bcryptjs to hash passwords, and jsonwebtoken for authentication. The commander.js routes
+
+have a problem with exiting, that I haven't found a solution for yet, and I was stuck on how to make authentication work on them.
+
+Error handling is basic at the moment, and needs further work!
 
 To run the code, first clone the repository, then run npm install.
 
